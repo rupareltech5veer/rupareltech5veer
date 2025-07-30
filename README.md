@@ -67,9 +67,9 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
 
 ---
 
-## 🐍 Watch my GitHub contribution snake eat my contributions!
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/rupareltech5veer/rupareltech5veer/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rupareltech5veer/rupareltech5veer/output/github-contribution-grid-snake.svg)
 
 ---
 
