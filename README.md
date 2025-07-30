@@ -6,14 +6,26 @@
 </p>
 
 <!-- Title Section -->
-<h1 align="center">Hey <span><img src="https://media.tenor.com/0CpFOKGVaeMAAAAj/hand-waving-hand.gif" width="30" height="30" alt="hand_wave" /></span> I'm Veer Ruparel</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI Explorer | 🎯 Building for Impact</h3>
+<h1 align="center">Hey <span><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40">
+</picture></span> I'm Veer Ruparel</h1>
+<h3 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture> Full-Stack Developer | <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32">
+</picture> AI Explorer | <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="32" height="32">
+</picture> Building for Impact</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=450&lines=20+y.o+Developer;Building+tools+that+matter;Lover+of+Cool+Ideas;Let's+Build+Something+Together!" alt="Typing SVG" />
 </p>
 
-## 🧠 About Me
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture> About Me
 - 💡 I'm a full-stack developer + part-time innovator & full-time thinker  
 - 📱 Currently building an app to assist people with **Prosopagnosia (face blindness)**  
 - 🌱 Always learning — diving into AI, fast APIs, and mobile tech  
@@ -22,7 +34,7 @@
 
 <br />
 
-## 🧰 Tech Stack
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32"></picture> Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -46,7 +58,7 @@
 
 <br />
 
-## 🚀 Featured Projects
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture> Featured Projects
 🧬 **MEMORA**  
 An AI-powered app that helps people with face blindness (Prosopagnosia) in their daily lives.  
 
@@ -55,20 +67,20 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
 
 <br />
 
-## 🐍 Contribution Snake
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"></picture> Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/rupareltech5veer/rupareltech5veer/output/github-contribution-grid-snake.svg?v=1)
 
 <br />
 
-## ✍️ Dev Quote of the Day
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.gif" alt="✍" width="32" height="32"></picture> Dev Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <br />
 
-## 🤝 Let's Connect
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32"></picture> Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/veerjr/" target="blank"><img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/d9048aa28051b409ea30e9a87aa1d85aa519842d/public/linkedin_logo_icon.png" width="60" height="60" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
