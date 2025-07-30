@@ -80,11 +80,11 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/veerjr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rupareltech5veer/rupareltech5veer/47fa2d3f552211ff5f4fdd1f0ade58ce5488f2a5/public/socials/linkedin_icon.svg" width="60" height="60" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/veerjr/" target="blank"><img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/d9048aa28051b409ea30e9a87aa1d85aa519842d/public/linkedin_logo_icon.png" width="60" height="60" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://devpost.com/rupareltech5veer" target="_blank" style="text-decoration: none; color: inherit;"><img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/20c50dfc776cd11c23cc11f1b9298b0096571411/public/socials/devpost_logo_icon.png" width="60" height="60" alt="Devpost" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=veerjr0412@gmail.com" target="_blank" style="text-decoration: none; color: inherit;"><img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/47fa2d3f552211ff5f4fdd1f0ade58ce5488f2a5/public/socials/gmail_icon.svg" width="60" height="60" alt="Work Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=veerjr0412@gmail.com" target="_blank" style="text-decoration: none; color: inherit;"><img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/d9048aa28051b409ea30e9a87aa1d85aa519842d/public/gmail_logo_icon.png" width="60" height="60" alt="Work Email" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/424250040228511745" target="_blank" style="text-decoration: none; color: inherit;"><img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/47fa2d3f552211ff5f4fdd1f0ade58ce5488f2a5/public/socials/discord_icon.svg" width="50" height="50" alt="Discord" /></a>
+  <a href="https://discordapp.com/users/424250040228511745" target="_blank" style="text-decoration: none; color: inherit;"><img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/d9048aa28051b409ea30e9a87aa1d85aa519842d/public/discord_logo_icon.png" width="50" height="50" alt="Discord" /></a>
 </p>
