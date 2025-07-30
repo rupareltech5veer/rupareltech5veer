@@ -81,17 +81,35 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
 ---
 
 ## 🌐 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/veerjr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://devpost.com/rupareltech5veer" target="_blank">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+    <img src="https://www.clipartmax.com/png/middle/231-2318034_slack-devpost-devpost-logo.png" width="40" alt="Devpost" />
   </a>
-  <a href="mailto:veerjr0412@gmail.com">
-    <img src="https://img.shields.io/badge/Work_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=veerjr0412@gmail.com" target="_blank">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" alt="Gmail 1" />
   </a>
-  <a href="mailto:rupareltech5veer@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rupareltech5veer@gmail.com" target="_blank">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" alt="Gmail 2" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/424250040228511745" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" alt="Discord" />
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
