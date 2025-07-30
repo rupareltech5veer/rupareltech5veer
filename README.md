@@ -16,7 +16,7 @@
 ---
 
 ### 🧠 About Me
-- 💡 I'm a full-stack developer & part-time thinker  
+- 💡 I'm a full-stack developer & full-time thinker  
 - 📱 Currently building an app to assist people with **Prosopagnosia (face blindness)**  
 - 🌱 Always learning — diving into AI, fast APIs, and mobile tech  
 - 🎯 I love tackling problems that actually help people  
@@ -80,29 +80,30 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/veerjr/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/veerjr/" style="text-decoration: none;" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="display:inline-block;" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://devpost.com/rupareltech5veer" target="_blank">
-    <img src="https://www.clipartmax.com/png/middle/231-2318034_slack-devpost-devpost-logo.png" width="40" alt="Devpost" />
+  <a href="https://devpost.com/rupareltech5veer" style="text-decoration: none;" title="Devpost">
+    <img src="https://images.icon-icons.com/3914/PNG/512/devpost_logo_icon_249036.png" width="40" style="display:inline-block;" alt="Devpost"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=veerjr0412@gmail.com" target="_blank">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" alt="Gmail 1" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=veerjr0412@gmail.com" style="text-decoration: none;" title="Email veerjr0412@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" style="display:inline-block;" alt="Gmail 1"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rupareltech5veer@gmail.com" target="_blank">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40" alt="Gmail 2" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rupareltech5veer@gmail.com" style="text-decoration: none;" title="Email rupareltech5veer@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" style="display:inline-block;" alt="Gmail 2"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/424250040228511745" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" alt="Discord" />
+  <a href="https://discordapp.com/users/424250040228511745" style="text-decoration: none;" title="Discord">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" style="display:inline-block;" alt="Discord"/>
   </a>
 </p>
+
 
 
 
