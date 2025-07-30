@@ -2,7 +2,7 @@
 
 <!-- Hacker Matrix Meme -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="500" alt="Matrix hacker gif" />
+  <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="500" alt="Matrix hacker gif" />
 </p>
 
 <!-- Title Section -->
