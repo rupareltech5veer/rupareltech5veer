@@ -22,7 +22,7 @@
 </picture> Building for Impact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=450&lines=20+year+old+Developer;Building+tools+that+matter;Lover+of+Cool+Ideas;Let's+Build+Something+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=450&lines=20+y.o+Developer;Building+tools+that+matter;Lover+of+Cool+Ideas;Let's+Build+Something+Together!" alt="Typing SVG" />
 </p>
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture> About Me
