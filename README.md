@@ -80,9 +80,7 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/veerjr/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/47fa2d3f552211ff5f4fdd1f0ade58ce5488f2a5/public/socials/linkedin_icon.svg" width="60" height="60" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/veerjr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rupareltech5veer/rupareltech5veer/47fa2d3f552211ff5f4fdd1f0ade58ce5488f2a5/public/socials/linkedin_icon.svg" width="60" height="60" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://devpost.com/rupareltech5veer" target="_blank" style="text-decoration: none; color: inherit;">
     <img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/47fa2d3f552211ff5f4fdd1f0ade58ce5488f2a5/public/socials/devpost_icon.svg" width="60" height="60" alt="Devpost" />
