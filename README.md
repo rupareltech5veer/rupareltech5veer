@@ -72,10 +72,6 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center" style="font-size: 0.9rem; color: #9B59B6; text-shadow: 0 0 5px #9B59B6;">
-  <em><strong>“In a room full of no’s, be the yes that ships the code.”</strong></em>
-</p>
-
 ---
 
 ## 🌐 Let's Connect
@@ -92,16 +88,4 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
   <a href="mailto:rupareltech5veer@gmail.com">
     <img src="https://img.shields.io/badge/Personal_Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rupareltech5veer&icon=2&color=1" />
-</p>
-
----
-
-<p align="center" style="font-size: 0.8rem; color: gray;">
-  ⚙️ README crafted with ❤️ using <a href="https://github-profile-maker.vercel.app/" target="_blank">github-profile-maker.vercel.app</a>
 </p>
