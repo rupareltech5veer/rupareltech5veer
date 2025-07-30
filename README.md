@@ -55,16 +55,6 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
 
 <br />
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupareltech5veer&theme=radical&show_icons=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupareltech5veer&theme=radical&hide_border=false" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupareltech5veer&theme=radical&layout=compact&hide_border=false" width="48%" />
-</p>
-
-<br />
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/rupareltech5veer/rupareltech5veer/output/github-contribution-grid-snake.svg)
