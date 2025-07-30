@@ -92,11 +92,7 @@ An AI-powered web app that helps Seniors in their day-to-day tasks.
     <img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/d4c17d0bbad1c89acfddcb61ed703ac5717bb14d/public/socials/gmail_logo_icon.png" width="60" height="60" alt="Work Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rupareltech5veer@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
-    <img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/d4c17d0bbad1c89acfddcb61ed703ac5717bb14d/public/socials/gmail_logo_icon.png" width="60" height="60" alt="Personal Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/424250040228511745" target="_blank" style="text-decoration: none; color: inherit;">
-    <img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/d4c17d0bbad1c89acfddcb61ed703ac5717bb14d/public/socials/discord_logo_icon.png" width="50" height="50" alt="Discord" />
+    <img align="center" src="https://github.com/rupareltech5veer/rupareltech5veer/blob/02723a4522b48422b36a9c39fee0cbeb31100c6c/public/socials/discord_icon.svg" width="50" height="50" alt="Discord" />
   </a>
 </p>
