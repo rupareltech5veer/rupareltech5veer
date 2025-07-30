@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title Section -->
-<h1 align="center">Hey 👋, I'm Veer Ruparel</h1>
+<h1 align="center">Hey <span><img src="https://media.tenor.com/0CpFOKGVaeMAAAAj/hand-waving-hand.gif" width="30" height="30" alt="hand_wave" /></span> I'm Veer Ruparel</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI Explorer | 🎯 Building for Impact</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 ### 🧠 About Me
-- 💡 I'm a full-stack developer & full-time thinker  
+- 💡 I'm a full-stack developer + part-time innovator & full-time thinker  
 - 📱 Currently building an app to assist people with **Prosopagnosia (face blindness)**  
 - 🌱 Always learning — diving into AI, fast APIs, and mobile tech  
 - 🎯 I love tackling problems that actually help people  
